@@ -58,10 +58,9 @@
 
 ---
 
-## 🌍 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MaheshKhandgave/count.svg" />
-</p>
+
+### 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/MaheshKhandgave/count.svg)
 
 ---
 
@@ -69,7 +68,7 @@
 
 📍 Maharashtra, India  
 📧 Email: **khandgavemahesh@gmail.com**  
-🔗 LinkedIn: *(https://www.linkedin.com/in/mahesh-khandgave-3457a4343/)*
+🔗 LinkedIn: *https://www.linkedin.com/in/mahesh-khandgave-3457a4343/*
 
 ---
 
