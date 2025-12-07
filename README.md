@@ -60,7 +60,11 @@
 
 
 ### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/MaheshKhandgave/count.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaheshKhandgave&label=Profile%20Views&color=blue&style=for-the-badge" alt="Visitor Count"/>
+</p>
+
 
 ---
 
