@@ -1,73 +1,79 @@
-<h1 align="center">Hi 👋, I'm Mahesh Khandgave</h1>
-<h3 align="center">Data Analyst | Excel • Power BI • SQL • Python</h3>
+<!-- Header Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mahesh+Khandgave;Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 ---
 
-## 👨‍💼 About Me
-I am a passionate **Data Analyst** skilled in Excel, Power BI, SQL, and Python.  
-I enjoy building dashboards, analyzing datasets, solving business problems, and creating meaningful insights.  
-Currently, I am working on multiple analytics projects including **HR Analytics** and **Flight Delay Analysis**.
+<h2 align="center">💼 About Me</h2>
 
-- 🔭 I’m currently working on **HR Analytics Project & Flight Delay Analysis**
-- 🌱 I’m learning **Advanced Excel | Power BI DAX | SQL Queries | Python for Data Analysis**
-- 👯 I’m open to collaborate on **Data Analysis Projects**
-- 👨‍💻 All of my projects are available here: **[GitHub Repositories](https://github.com/MaheshKhandgave?tab=repositories)**
-- 📫 How to reach me: **maheshkhandgave247@gmail.com**
-- ⚡ Fun fact: I love cricket and data both! 🏏📊
+🌟 Passionate **Data Analyst** from Maharashtra, India  
+🔍 Turning raw data into insights using **Excel, SQL, Power BI & Python**  
+📊 Building dashboards, case studies & solving real business problems  
+🚀 Open to freelance, internships & full-time analytics opportunities  
+
+📧 Email: **maheshkhandgave247@gmail.com**
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚡ Tech Stack & Tools
 
-### 🔹 **Data Analysis & Visualization**
-- Excel (Pivot Tables, Dashboarding, Power Query)
-- Power BI (DAX, Modelling, Dashboards)
-- Tableau (Visual Analytics)
+### 📊 **Data Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+</p>
 
-### 🔹 **Programming & Databases**
-- SQL (Joins, Window Functions, Subqueries)
-- Python (Pandas, NumPy, Matplotlib)
+### 🗄️ **Database**
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### 🔹 **Other Tools**
-- Git & GitHub  
-- Documentation (README, Case Studies, PPT)
+### 🐍 **Programming**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+</p>
 
----
+### 🔧 **Others**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-## 📊 Featured Projects
-
-### 🔥 **1. Flight Delay Analysis**
-📂 *Excel + Power BI + SQL*  
-- Analyzed flight delay patterns, airline performance, cancellation trends  
-- Built dashboards & documented end-to-end analysis  
-🔗 Repo Link: https://github.com/MaheshKhandgave/Flight-Delay-Analysis  
-
----
-
-### 🔥 **2. HR Analytics**
-📂 *Excel + SQL + Power BI + Tableau*  
-- Attrition analysis, salary trends, job satisfaction, department-wise KPIs  
-- Interactive dashboards with storylines  
-🔗 Repo Link: https://github.com/MaheshKhandgave/HR-Analysis  
+🔗 Repo: **https://github.com/MaheshKhandgave/Flight-Delay-Analysis**
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 **HR Analytics**
+---
+🔗 Repo: **https://github.com/MaheshKhandgave/HR-Analysis**
+
+---
+
+## 📈 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheshKhandgave&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKhandgave&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheshKhandgave&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKhandgave&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 📬 Connect With Me
-
-- 📍 Maharashtra, India  
-- ✉️ Email: **maheshkhandgave247@gmail.com**  
-- 💼 LinkedIn: *(Add when available — I will update it for you)*
+## 🌍 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MaheshKhandgave/count.svg" />
+</p>
 
 ---
 
-## 🙌 Thanks for visiting my profile!
-⭐ Feel free to explore my repositories and drop a star if you like my work!
+## 🤝 Connect With Me
+
+📍 Maharashtra, India  
+📧 Email: **khandgavemahesh@gmail.com**  
+🔗 LinkedIn: *(https://www.linkedin.com/in/mahesh-khandgave-3457a4343/)*
+
+---
+
+<h3 align="center">⭐ Thanks for Visiting! Have a great day!</h3>
+## 📂 Featured Projects
+
+### 🚀 **Flight Delay Analysis**
